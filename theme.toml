@@ -1,17 +1,17 @@
 name = "Hugo Minimalist"
 license = "BSD-3-clause"
-licenselink = "https://github.com/aniolm9/hugo-minimalist/blob/main/LICENSE"
+licenselink = "https://github.com/ZekeriyaAY/hugo-minimalist/blob/main/LICENSE"
 description = "A minimalist personal theme for Hugo."
-homepage = "https://github.com/aniolm9/hugo-minimalist"
+homepage = "https://github.com/ZekeriyaAY/hugo-minimalist"
 tags = ["blog", "clean", "minimal", "personal", "responsive", "resume", "simple"]
 features = ["responsive", "simple"]
 min_version = "0.80.0"
 
 [author]
-  name = "Aniol Martí"
-  homepage = "https://aniolmarti.cat"
+  name = "Zekeriya AY"
+  homepage = "https://zekeriyaay.com"
 
 [original]
-  name = "minimalist"
-  homepage = "https://www.bodunhu.com/minimalist/"
-  repo = "https://github.com/BDHU/minimalist"
+  name = "hugo-minimalist"
+  homepage = "https://aniolmarti.cat"
+  repo = "https://github.com/aniolm9/hugo-minimalist"
