@@ -1,6 +1,6 @@
 # Minimalist
 
-A minimalist personal theme for Hugo. It was ported from Jekyll theme [BDHU/minimalist](https://github.com/BDHU/minimalist).
+A minimalist personal theme for Hugo. It was forked from [aniolm9/hugo-minimalist](https://github.com/aniolm9/hugo-minimalist).
 
 ## Installation
 This theme uses Sass to generate CSS files so make sure you have the
@@ -8,9 +8,9 @@ This theme uses Sass to generate CSS files so make sure you have the
 
 Add the theme to your site's `themes` directory:
 ```bash
-git submodule add https://github.com/aniolm9/hugo-minimalist.git themes/hugo-minimalist
+git submodule add https://github.com/ZekeriyaAY/hugo-minimalist.git themes/hugo-minimalist
 # if your website is not managed by git:
-# git clone https://github.com/aniolm9/hugo-minimalist.git themes/hugo-minimalist
+# git clone https://github.com/ZekeriyaAY/hugo-minimalist.git themes/hugo-minimalist
 ```
 
 Update the theme option in `config.toml`:
